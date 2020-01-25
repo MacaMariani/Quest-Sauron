@@ -1,0 +1,17 @@
+body {
+    margin: 40px;
+}
+
+.gray{
+    background-color: #2E2E2E;
+    height: 100px;
+}
+.orange{
+    background-color: #FF8000;
+}
+.yellow {
+    background-color: #FFFF00;
+}
+.black{
+    background-color: black;
+}
